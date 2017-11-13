@@ -6,5 +6,7 @@ public class HelloWorld {
     public static void main(String args[]){
         System.out.print("aaaaaaaa");
 
+        System.out.print("liushuo");
+
     }
 }
