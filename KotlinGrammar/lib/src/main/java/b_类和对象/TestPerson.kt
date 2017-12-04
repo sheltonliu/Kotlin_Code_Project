@@ -22,6 +22,9 @@ object TestPerson {
         if (test.get(0).age > 0){
 
         }
+
+        System.out.print("githubhello")
+
     }
 
 }
