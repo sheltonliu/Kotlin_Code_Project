@@ -11,4 +11,13 @@ class Person {
         this.name = name
         this.age = age
     }
+
+    //内部类
+     inner class Child {
+
+        fun test(){
+            name = "aa"
+        }
+
+    }
 }
